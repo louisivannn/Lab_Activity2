@@ -1,0 +1,22 @@
+.contents {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 43vh;
+}
+
+.container {
+  flex: auto;
+  max-width: 420px;
+  padding: 15px;
+}
+
+.text-left {
+  text-align: left;
+}
+.font {
+  font-weight: 620;
+  font-size: 28px;
+  color: black;
+}

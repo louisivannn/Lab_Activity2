@@ -1,0 +1,51 @@
+.navStyle {
+  background: #6d1fff;
+  color: #fff;
+  padding: 12px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.brandContainerStyle {
+  display: flex;
+  align-items: center;
+}
+
+.logoStyle {
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+}
+
+.brandStyle {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 0.9rem;
+  margin-right: 30px;
+  margin-left: 10px;
+}
+
+.linkStyle {
+  cursor: pointer;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  margin-right: 10px;
+}
+
+.rightContainer {
+  display: flex;
+  align-items: center;
+}
+.marginLeft {
+  margin-left: 15px;
+}
+.marginRight {
+  margin-right: 20px;
+}
+.searchButton {
+  cursor: pointer;
+  padding: 5px 55px;
+  border-radius: 20px;
+}

@@ -1,0 +1,42 @@
+.footerContainer {
+  background-color: #fafafa;
+  color: #000;
+  padding: 30px 600px 10px 600px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: auto;
+}
+
+.column {
+  display: inline-block;
+  text-align: left;
+  margin-right: 10px; /* Reduced margin to push the columns closer */
+}
+
+.column:last-child {
+  margin-right: 0;
+}
+.name {
+  font-size: 1.2rem;
+  color: black;
+  text-align: left;
+}
+p {
+  font-size: 1rem;
+}
+a {
+  display: block;
+  color: rgb(94, 94, 94);
+}
+.copyright {
+  width: 100%;
+  text-align: center;
+  padding: 20px 0;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}

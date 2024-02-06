@@ -1,0 +1,35 @@
+.header {
+  background-color: #fafafa;
+  padding: 60px;
+}
+h1 {
+  text-align: center;
+  font-size: 48px;
+  color: rgb(80, 80, 80);
+}
+h3 {
+  text-align: center;
+  font-size: 1.5rem;
+  color: rgb(80, 80, 80);
+  font-weight: 400;
+}
+p {
+  text-align: center;
+}
+.buttonDiv {
+  display: flex;
+  justify-content: center;
+  margin: 21px 0px 10px 0px;
+}
+.button {
+  background: #6d1fff;
+  border: #6d1fff;
+  color: white;
+  margin: 0 8px;
+  border-radius: 7px;
+  padding: 10px 30px 10px 30px;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 550;
+  font-style: normal;
+}
